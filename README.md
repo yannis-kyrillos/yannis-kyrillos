@@ -10,17 +10,17 @@ I'm mostly skilled with Java (Spring Boot, Quarkus) & React, but I've also worke
 **Personal Projects**  
 Below is a brief description of my personal projects to help you navigate my repositories more easily.  
 
-[Asset Retriever](https://github.com/kyrillosyannis/go-asset-retriever)  
+[Asset Retriever]((https://github.com/yannis-kyrillos/go-asset-retriever)  
 A REST API written in Go, with Gin & GORM.  
 It was completed as a side project in one week, having minimal prior experience with the language, showing that good engineers should have no problem switching language/framework.  
 
-[Movie API](https://github.com/kyrillosyannis/movies-app)  
+[Movie API](https://github.com/yannis-kyrillos/movies-app)  
 A REST API in Java, showcasing how I approach code architecture in a single service, JWT auth, unit testing, DB migrations with Flyway and Docker containerization  
-with its subsequent [client app](https://github.com/kyrillosyannis/movies-app-client)  
+with its subsequent [client app](https://github.com/yannis-kyrillos/movies-app-client)  
 
 
-[Civ App](https://github.com/kyrillosyannis/civ-app)  
-MVP for a petition/ticketing platform for civilians that has been selved.
+[Civ App](https://github.com/yannis-kyrillos/civ-app)  
+MVP for a petition/ticketing platform for civilians (with its [client app](https://github.com/yannis-kyrillos/civ-app-client) that has been selved.
 
 <!--
 **kyrillosyannis/kyrillosyannis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
